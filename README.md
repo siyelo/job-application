@@ -1,4 +1,4 @@
-# Want to join the [Siyelo](www.siyelo.com) team?
+# Want to join the [Siyelo](http://www.siyelo.com) team?
 
 If so, we've devised a quick programming challenge that allows you to
 
