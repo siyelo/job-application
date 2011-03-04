@@ -33,5 +33,4 @@ No, we'd like you to create a small Rails app, that when booted up (locally), wi
 
 * tests
 * easy deployment. We'd like to: unzip, run some setup, start your app, then download your CV.
-* very easy deployment. We'd like to: unzip, push to Heroku, then download your CV.
 * other useful features.
