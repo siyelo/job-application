@@ -1,6 +1,3 @@
-**IMPORTANT UPDATE**: due to some issues with our google group for jobs@siyelo.com, if you submitted your application before the 02 Feb '11 (2130hrs), your submission may have not been received. If in doubt, please resubmit. Thanks!
-
-
 # Want to join the [Siyelo](http://www.siyelo.com) team?
 
 If so, we've devised a quick programming challenge that allows you to
