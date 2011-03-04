@@ -1,4 +1,4 @@
-## Web Developer wanted.
+## Experience Web Developer wanted
 
 ### Company
 
@@ -16,20 +16,21 @@ We are working on an exciting mix of improving and scaling existing apps and dev
 
   - 3+ years web development or related experience
   - Experience in Object Oriented languages & domain modeling
-  - Agile / lean development practices: TDD/BDD, pair programming, OO design, refactoring
+  - Agile development practices: TDD/BDD, pair programming, OO design, refactoring
   - Relational databases: PostgreSQL or MySQL
   - English proficiency a must.
 
 ### Highly Regarded
 
   - Ruby / Python / Smalltalk / Java experience
-  - UI design (HTML, CSS, Javascript)
+  - UI/UX design (HTML, CSS, Javascript)
+  - jQuery or similar framework
   - NoSQL databases
   - Open source contributions
   - Git & Github
 
 ### How to Apply
 
-Please send your CV to [jobs@siyelo.com](mailto:jobs@siyelo.com)
+Please send your CV (including any portfolio/open source links) to [jobs@siyelo.com](mailto:jobs@siyelo.com).
 
 [Optional] For BONUS points, you can apply using our fun little [Github application](http://github.com/siyelo/job-application)
