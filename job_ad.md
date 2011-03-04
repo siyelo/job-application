@@ -16,7 +16,7 @@ We are working on an exciting mix of improving and scaling existing apps and dev
 
   - 3+ years web development or related experience
   - Experience in Object Oriented languages & domain modeling
-  - Agile development practices: TDD/BDD, pair programming, OO design, refactoring
+  - Agile development practices: TDD/BDD, pair programming, refactoring
   - Relational databases: PostgreSQL or MySQL
   - English proficiency a must.
 
