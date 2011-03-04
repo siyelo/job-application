@@ -10,4 +10,16 @@ We're all "full-stack" developers, so whilst you don't necessarily need to know 
 
 We are working on an exciting mix of improving and scaling existing apps and developing entirely new apps. Our team is fast, talented and independent, and we encourage Open Source contributions and community participation.
 
+Requirements:
+
+  - English proficiency
+  - 3+ years of OO programming experience
+  - Experience with: TDD, pair programming, OO design, refactoring.
+  - Agile / lean development practices
+  - Domain modelling
+  - Ruby / Python / Smalltalk experience
+  - Open source contributions (highly regarded)
+  - Databases experience MySQL/PostgreSQL
+  - Git
+
 If you're interested, please go to http://github.com/siyelo/job-application to apply.
