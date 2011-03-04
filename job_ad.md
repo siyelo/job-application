@@ -15,17 +15,18 @@ We are working on an exciting mix of improving and scaling existing apps and dev
 ### Requirements:
 
   - 3+ years web development or related experience
-  - experience in Object Oriented languages & domain modeling
-  - Agile / lean development practices : TDD, pair programming, OO design, refactoring
-  - Relational databases:  PostgreSQL or MySQL
+  - Experience in Object Oriented languages & domain modeling
+  - Agile / lean development practices: TDD/BDD, pair programming, OO design, refactoring
+  - Relational databases: PostgreSQL or MySQL
   - English proficiency a must.
 
 ### Highly Regarded
 
   - Ruby / Python / Smalltalk / Java experience
+  - UI design (HTML, CSS, Javascript)
   - NoSQL databases
   - Open source contributions
-  - Git SCM
+  - Git & Github
 
 ### How to Apply
 
